@@ -1,0 +1,73 @@
+html, body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    margin: 0%;
+
+    
+}
+
+
+p{
+    justify-content: center;
+}
+img {
+    border-radius: 3%;
+    justify-content: center;
+    justify-items: center;
+}
+
+header{
+    
+    background: white;
+    display: flex;
+    display: inline-block;
+}
+
+main{
+    justify-content: center;
+    background: linear-gradient(to bottom, red, white);
+    padding: 1%;
+    justify-items: center;
+}
+
+section{
+    justify-items: center;
+    border: 1px solid;
+    
+    border-radius: 3%;
+}
+
+#bmain{
+    color: white;
+    background: red;
+
+}
+
+#boton1{
+    justify-items: center;
+    background: red;
+    color: white;
+    border-radius: 3%;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#todo {
+    justify-content: center;
+    display: flex;
+    
+}
+#ba{
+    color: white;
+    background: royalblue;
+}
+
+
+
+
+
